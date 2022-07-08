@@ -1,0 +1,10 @@
+.footerr {
+    height: 15vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90vw;
+    margin-bottom: 5rem;
+}
